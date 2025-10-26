@@ -1,6 +1,9 @@
 [package]
 name = "gimble"
+authors = ["Liam Heppner <l.heppner6@gmail.com>", "Lukas Zeyerman"]
 version = "0.1.0"
 edition = "2024"
+readme = "README.md"
+repository = https://github.com/liamhpr/gimble.git
 
 [dependencies]
